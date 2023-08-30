@@ -12,3 +12,10 @@ Shimla has colonial houses, market places, lakes and snow-capped mountains, maki
 2. Ice Skating
 3. River Rafting
 4. Camping
+
+#### dishes of food that I had in Shimla ####
+* Madra
+* Dhaam
+* Tudkiya Bhath
+* Bhey
+* Sidu
