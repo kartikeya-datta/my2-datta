@@ -40,11 +40,11 @@ These are the sports I have experienced and would recommend you to try participa
 
 ### quotations of Scientists
 
-> Men love to wondefr and that is the seed of science *Ralph Waldo Emerson*
+> "Men love to wondefr and that is the seed of science"-*Ralph Waldo Emerson*
 
-> Simplicity is the ultimate sophistication *Leonardo Da Vinci*
+> "Simplicity is the ultimate sophistication"-*Leonardo Da Vinci*
 
-> Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less*Marie Curie*
+> "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear"-less*Marie Curie*
 
 ---
 
