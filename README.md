@@ -42,3 +42,16 @@ https://github.com/kartikeya-datta/my2-datta/blob/main/MyStats.md
 
 > Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less*Marie Curie*
 
+---
+
+### Code Snippet
+
+> How to protect the .htaccess file in the directory using password protect folders(s)?
+
+[Question quoted on stack overflow](https://stackoverflow.com/questions/19821536/prepend-file-by-htaccess-in-to-specify-tag)
+
+```
+php_value auto_prepend_file "/real/path/to/file/functions.php"
+php_value auto_append_file "/real/path/to/file/footer.php"
+```
+[Snippet of Source](https://css-tricks.com/snippets/htaccess/append-prepend-files/)
