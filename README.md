@@ -21,3 +21,4 @@ Shimla has colonial houses, market places, lakes and snow-capped mountains, maki
 * Sidu
 
 
+https://github.com/kartikeya-datta/my2-datta/blob/main/MyStats.md
