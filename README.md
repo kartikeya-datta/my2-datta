@@ -19,3 +19,5 @@ Shimla has colonial houses, market places, lakes and snow-capped mountains, maki
 * Tudkiya Bhath
 * Bhey
 * Sidu
+
+
