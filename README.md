@@ -32,3 +32,13 @@ https://github.com/kartikeya-datta/my2-datta/blob/main/MyStats.md
 | Badminton | Self-confidence, refexes and durability | 10 |
 | Swimming | Focussed Breathing, Muscle strenth and Stress reduction | 3 |
 
+---
+
+### quotations of Scientists
+
+> Men love to wondefr and that is the seed of science *Ralph Waldo Emerson*
+
+> Simplicity is the ultimate sophistication *Leonardo Da Vinci*
+
+> Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less*Marie Curie*
+
