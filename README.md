@@ -23,6 +23,8 @@ Shimla has colonial houses, market places, lakes and snow-capped mountains, maki
 
 https://github.com/kartikeya-datta/my2-datta/blob/main/MyStats.md
 
+---
+
 ### Sports
 
 These are the sports I have experienced and would recommend you to try participating in. I assure that you will enjoy each and ever one of them to your fullest extent.
