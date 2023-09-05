@@ -25,6 +25,8 @@ https://github.com/kartikeya-datta/my2-datta/blob/main/MyStats.md
 
 ### Sports
 
+These are the sports I have experienced and would recommend you to try participating in. I assure that you will enjoy each and ever one of them to your fullest extent.
+
 | Name | Reason | Hours spent per week |
 |------|--------|----------------------|
 | Football | Stamina, endurance and teamwork | 8 |
