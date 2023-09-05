@@ -22,3 +22,13 @@ Shimla has colonial houses, market places, lakes and snow-capped mountains, maki
 
 
 https://github.com/kartikeya-datta/my2-datta/blob/main/MyStats.md
+
+### Sports
+
+| Name | Reason | Hours spent per week |
+|------|--------|----------------------|
+| Football | Stamina, endurance and teamwork | 8 |
+| Kabaddi | flexibility, coordination and timing | 7 |
+| Badminton | Self-confidence, refexes and durability | 10 |
+| Swimming | Focussed Breathing, Muscle strenth and Stress reduction | 3 |
+
